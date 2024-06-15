@@ -1,0 +1,3 @@
+path setup syntax
+       
+ PATH=$PATH:~/bin
